@@ -1,3 +1,5 @@
+`Build in progress ⚙️`
+
 # Betterfeeds
 
 <img src="https://user-images.githubusercontent.com/108688904/185953057-66a1c38d-c41e-4213-8e97-cc46c32399ba.png" height="100">
@@ -15,6 +17,7 @@ Nothing better than Betterfeeds 🐄
 * SEO/SMO
 * Branding (minimum level)
 * Domain Registration + SSL 
+* Futureproof Design
 * Source Control & Access to official Code (for future upgrades)
 
 ------
